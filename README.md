@@ -45,14 +45,14 @@
 
 ### 脚本
 
-| 名称 | 语言 | 平台 | 描述 | 维护状态 |
-| :--- | :--- | :--- | :--- | :--- |
-| [**SwitchTo-BuiltInAdapter.ps1**](./scripts/SwitchTo-BuiltInAdapter.ps1) | PowerShell | Windows | 禁用/启用指定网络适配器，杀死特定程序 | 🟡 一般 |
-| [**SwitchTo-ExternalAdapter**](./scripts/SwitchTo-ExternalAdapter.ps1) | PowerShell | Windows | 禁用/启用指定网络适配器，启动特定程序 | 🟡 一般 |
-| [**autorun_ppt**](./scripts/autorun_ppt.bat) | Batch | Windows | 批处理窗口显示倒计时后启动 .ppsx 自动放映 | ✅ 活跃 |
-| [**killppt**](./scripts/killppt.bat) | Batch | Windows | 清理 WPS/Office PPT 相关进程 | 🟡 一般 |
-| [**send_esc**](./scripts/) | AutoHotkey | Windows | 发送 ESC 键给焦点窗口 | ✅ 活跃 |
-| [**terminate_ppt_through_COM**](./scripts/) | Visual Basic Script | Windows | 通过 COM 通信保存并关闭正在放映的 PPT | ✅ 活跃 |
+| 名称 | 语言 | 描述 | 维护状态 |
+| :--- | :--- | :--- | :--- |
+| [**SwitchTo-BuiltInAdapter.ps1**](./scripts/SwitchTo-BuiltInAdapter.ps1) | PowerShell | 禁用/启用指定网络适配器，杀死特定程序 | 🟡 一般 |
+| [**SwitchTo-ExternalAdapter**](./scripts/SwitchTo-ExternalAdapter.ps1) | PowerShell | 禁用/启用指定网络适配器，启动特定程序 | 🟡 一般 |
+| [**autorun_ppt**](./scripts/autorun_ppt.bat) | Batch | 批处理窗口显示倒计时后启动 .ppsx 自动放映 | ✅ 活跃 |
+| [**killppt**](./scripts/killppt.bat) | Batch | 清理 WPS/Office PPT 相关进程 | 🟡 一般 |
+| [**send_esc**](./scripts/) | AutoHotkey | 发送 ESC 键给焦点窗口 | ✅ 活跃 |
+| [**terminate_ppt_through_COM**](./scripts/) | Visual Basic Script | 通过 COM 通信保存并关闭正在放映的 PPT | ✅ 活跃 |
 
 ### 自动化应用
 
@@ -61,6 +61,12 @@
 | [**ClassIsland**](https://classisland.tech/) | ✅ | 自动化主体 |
 | [**Hourglass**](https://chris.dziemborowicz.com/apps/hourglass/) | ✅ | 支持传递参数的计时器 |
 
+### 其他应用
+
+| 名称 | 开源 | 描述 |
+| :--- | :--- | :--- |
+| [**SeewoSplash**](https://github.com/fengyec2/custom-seewo-splash-screen) | ✅ | Fluent 风格的希沃白板启动图自定义工具 |
+| [**PlaylistControl**](https://github.com/fengyec2/PlaylistControl) | ✅ | 记录 SMTC 信息 |
 
 ### 文档与教程
 
