@@ -51,8 +51,9 @@
 | [**SwitchTo-ExternalAdapter**](./scripts/SwitchTo-ExternalAdapter.ps1) | PowerShell | 禁用/启用指定网络适配器，启动特定程序 | 🟡 一般 |
 | [**autorun_ppt**](./scripts/autorun_ppt.bat) | Batch | 批处理窗口显示倒计时后启动 .ppsx 自动放映 | ✅ 活跃 |
 | [**killppt**](./scripts/killppt.bat) | Batch | 清理 WPS/Office PPT 相关进程 | 🟡 一般 |
-| [**send_esc**](./scripts/) | AutoHotkey | 发送 ESC 键给焦点窗口 | ✅ 活跃 |
-| [**terminate_ppt_through_COM**](./scripts/) | Visual Basic Script | 通过 COM 通信保存并关闭正在放映的 PPT | ✅ 活跃 |
+| [**send_esc**](./scripts/send_esc.ahk) | AutoHotkey | 发送 ESC 键给焦点窗口 | ✅ 活跃 |
+| [**terminate_ppt_through_COM**](./scripts/terminate_ppt_through_COM.ps1) | PowerShell | 通过 COM 通信保存并关闭正在放映的 PPT | ✅ 活跃 |
+| [**clean_explorer_icon_temp**](./scripts/clean_explorer_icon_temp.bat) | Batch | 清理文件资源管理器图标缓存 | 🟡 一般 |
 
 ### 自动化应用
 
