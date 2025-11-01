@@ -52,7 +52,8 @@
 | [**autorun_ppt**](./scripts/autorun_ppt.bat) | Batch | 批处理窗口显示倒计时后启动 .ppsx 自动放映 | ✅ 活跃 |
 | [**killppt**](./scripts/killppt.bat) | Batch | 清理 WPS/Office PPT 相关进程 | 🟡 一般 |
 | [**send_esc**](./scripts/send_esc.ahk) | AutoHotkey | 发送 ESC 键给焦点窗口 | ✅ 活跃 |
-| [**terminate_ppt_through_COM**](./scripts/terminate_ppt_through_COM.ps1) | PowerShell | 通过 COM 通信保存并关闭正在放映的 PPT | ✅ 活跃 |
+| [**terminate_ppt_through_COM.ps1**](./scripts/terminate_ppt_through_COM.ps1) | PowerShell | 通过 COM 通信保存并关闭正在放映的 PPT | ✅ 活跃 |
+| [**terminate_ppt_through_COM.vbs**](./scripts/terminate_ppt_through_COM.vbs) | VBScript | 通过 COM 通信保存并关闭正在放映的 PPT（Windows 11 25H2 移除了对 VBS 脚本的支持） | ✅ 活跃 |
 | [**clean_explorer_icon_temp**](./scripts/clean_explorer_icon_temp.bat) | Batch | 清理文件资源管理器图标缓存 | 🟡 一般 |
 
 ### 自动化应用
