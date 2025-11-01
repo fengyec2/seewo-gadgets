@@ -49,6 +49,7 @@
 | :--- | :--- | :--- | :--- |
 | [**SwitchTo-BuiltInAdapter.ps1**](./scripts/SwitchTo-BuiltInAdapter.ps1) | PowerShell | 禁用/启用指定网络适配器，杀死特定程序 | 🟡 一般 |
 | [**SwitchTo-ExternalAdapter**](./scripts/SwitchTo-ExternalAdapter.ps1) | PowerShell | 禁用/启用指定网络适配器，启动特定程序 | 🟡 一般 |
+| [**Start-ProcessWithArguments**](./scripts/SwitchTo-ExternalAdapter.ps1) | PowerShell | 传递参数启动指定程序 | 🟡 一般 |
 | [**autorun_ppt**](./scripts/autorun_ppt.bat) | Batch | 批处理窗口显示倒计时后启动 .ppsx 自动放映 | ✅ 活跃 |
 | [**killppt**](./scripts/killppt.bat) | Batch | 清理 WPS/Office PPT 相关进程 | 🟡 一般 |
 | [**send_esc**](./scripts/send_esc.ahk) | AutoHotkey | 发送 ESC 键给焦点窗口 | ✅ 活跃 |
