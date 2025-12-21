@@ -15,54 +15,56 @@
 - **希沃版本**：定制系统版本号
 - **构建日期**：YYMMDD 格式
 
+使用 [generate_md_from_txt.py](/cli/generate_md_from_txt.py) 范式化 `Version.txt` 内容
+
 ## 🗂 镜像档案
 
 ### MT71A 系列
 
 <details>
-<summary><b>MT71A-HX(12&13代)-Win10ProUEFI(22H2)-SATA-64Bit-CHSEEWO(V7-A15.1)-240727</b></summary>
+<summary><b>MT71A-HX(12&13dai)-Win10ProUEFI(22H2)-SATA-64Bit-CHSEEWO(V7-A15.1)-240727</b></summary>
 
 #### 基本信息
-- **设备型号**: MT71A-HX
-- **硬件平台**: 第12&13代处理器
+- **设备型号**: MT71A
+- **硬件平台**: 
 - **操作系统**: Windows 10 Professional 22H2 (UEFI启动)
 - **系统架构**: 64位 SATA
-- **希沃版本**: V7-A15.1
+- **希沃版本**: V7
 - **构建日期**: 2024年7月27日
 
 #### 预装软件清单
 
 ##### 核心教学软件
 - `AirteachSetup_2.0.13.16752` - 希沃空中课堂
-- `EasiNoteSetup_5.2.3.824` - 希沃白板5
 - `EasiNote5_Resource_20210923` - 希沃白板5资源包
+- `EasiNoteSetup_5.2.3.824` - 希沃白板5
 
 ##### 外设支持
 - `EasiCameraSetup_2.0.10.3855` - 希沃展台
-- `SmartpenServiceSetup_2.0.1.755` - 智能笔服务
 - `EasiRecorderSetup_1.0.2.633` - 希沃录屏
+- `SmartpenServiceSetup_2.0.1.755` - 智能笔服务
 
 ##### 系统工具
-- `SeewoServiceSetup_1.4.6.3510` - 希沃服务
-- `SeewoLicenseSetup_2.0.2.192_factory` - 许可证管理
 - `LifeCycleSetup_1.0.3.92` - 生命周期管理
 - `SeewoIwbAssistant_0.0.3.1173` - 交互白板助手
+- `SeewoLicenseSetup_2.0.2.192_factory` - 许可证管理
+- `SeewoServiceSetup_1.4.6.3510` - 希沃服务
 
 ##### 投屏与协作
-- `ScreenShareSuiteSetup_seewo_d_[282]_2.5.57.464` - 屏幕共享套件
-- `大屏接收端SeewoPCAssistantPublicSetup_1.0.6.729` - PC助手公版
 - `UniteActiveSetup_1.5.3.210` - 统一激活
+- `大屏接收端SeewoPCAssistantPublicSetup_1.0.6.729` - PC助手公版
+- `ScreenShareSuiteSetup_seewo_d_[282]_2.5.57.464` - 屏幕共享套件
 
 ##### 其他应用
 - `W.P.S.20.2904(11.1.0.12763)` - WPS Office
 - `EasiObservationSetup_1.0.2.629` - 希沃评课
 - `EdulyseEdgeWindowsSetup_1.0.0.133` - Edulyse Edge
-- `UdiServerSetup_3.4.1.20` - UDI服务器
-- `SEEWO-FAMILY-BUCKET_NORMAL.7.0.0.10` - 希沃全家桶
 - `firewall_dns` - 防火墙DNS配置
+- `SEEWO-FAMILY-BUCKET_NORMAL.7.0.0.10` - 希沃全家桶
+- `UdiServerSetup_3.4.1.20` - UDI服务器
 
 #### 备注
-- 适用于第12和13代处理器的MT71A设备
+- V7-7dai
 - V7第七代平台
 
 </details>
