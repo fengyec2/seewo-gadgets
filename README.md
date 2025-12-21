@@ -75,17 +75,17 @@
 
 ### 脚本
 
-| 名称 | 语言 | 描述 | 维护状态 |
-| :--- | :--- | :--- | :--- |
-| [**SwitchTo-BuiltInAdapter.ps1**](./scripts/SwitchTo-BuiltInAdapter.ps1) | PowerShell | 禁用/启用指定网络适配器，杀死特定程序 | 🟡 一般 |
-| [**SwitchTo-ExternalAdapter**](./scripts/SwitchTo-ExternalAdapter.ps1) | PowerShell | 禁用/启用指定网络适配器，启动特定程序 | 🟡 一般 |
-| [**Start-ProcessWithArguments**](./scripts/SwitchTo-ExternalAdapter.ps1) | PowerShell | 传递参数启动指定程序 | 🟡 一般 |
-| [**autorun_ppt**](./scripts/autorun_ppt.bat) | Batch | 批处理窗口显示倒计时后启动 .ppsx 自动放映 | ✅ 活跃 |
-| [**killppt**](./scripts/killppt.bat) | Batch | 清理 WPS/Office PPT 相关进程 | 🟡 一般 |
-| [**send_esc**](./scripts/send_esc.ahk) | AutoHotkey | 发送 ESC 键给焦点窗口 | ✅ 活跃 |
-| [**terminate_ppt_through_COM.ps1**](./scripts/terminate_ppt_through_COM.ps1) | PowerShell | 通过 COM 通信保存并关闭正在放映的 PPT | ✅ 活跃 |
-| [**terminate_ppt_through_COM.vbs**](./scripts/terminate_ppt_through_COM.vbs) | VBScript | 通过 COM 通信保存并关闭正在放映的 PPT（Windows 11 25H2 移除了对 VBS 脚本的支持） | ✅ 活跃 |
-| [**clean_explorer_icon_temp**](./scripts/clean_explorer_icon_temp.bat) | Batch | 清理文件资源管理器图标缓存 | 🟡 一般 |
+| 名称 | 语言 | 描述 |
+| :--- | :--- | :--- |
+| [**SwitchTo-BuiltInAdapter**](./scripts/SwitchTo-BuiltInAdapter.ps1) | PowerShell | 禁用/启用指定网络适配器，杀死特定程序 |
+| [**SwitchTo-ExternalAdapter**](./scripts/SwitchTo-ExternalAdapter.ps1) | PowerShell | 禁用/启用指定网络适配器，启动特定程序 |
+| [**Start-ProcessWithArguments**](./scripts/SwitchTo-ExternalAdapter.ps1) | PowerShell | 传递参数启动指定程序 |
+| [**autorun_ppt**](./scripts/autorun_ppt.bat) | Batch | 批处理窗口显示倒计时后启动 .ppsx 自动放映 |
+| [**killppt**](./scripts/killppt.bat) | Batch | 清理 WPS/Office PPT 相关进程 |
+| [**send_esc**](./scripts/send_esc.ahk) | AutoHotkey | 发送 ESC 键给焦点窗口 |
+| [**terminate_ppt_through_COM.ps1**](./scripts/terminate_ppt_through_COM.ps1) | PowerShell | 通过 COM 通信保存并关闭正在放映的 PPT |
+| [**terminate_ppt_through_COM.vbs**](./scripts/terminate_ppt_through_COM.vbs) | VBScript | 通过 COM 通信保存并关闭正在放映的 PPT（Windows 11 25H2 移除了对 VBS 脚本的支持） |
+| [**clean_explorer_icon_temp**](./scripts/clean_explorer_icon_temp.bat) | Batch | 清理文件资源管理器图标缓存 |
 
 ### 自动化应用
 
