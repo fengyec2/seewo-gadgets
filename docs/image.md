@@ -69,6 +69,49 @@
 
 </details>
 
+<details>
+<summary><b>MT71A-HX(12dai)-Win10ProUEFI(22H2)-SATA-64Bit-CHSEEWO-230723</b></summary>
+
+#### 基本信息
+- **设备型号**: MT71A
+- **硬件平台**: 
+- **操作系统**: Windows 10 Professional 22H2 (UEFI启动)
+- **系统架构**: 64位 SATA
+- **希沃版本**: 
+- **构建日期**: 2023年7月23日
+
+#### 预装软件清单
+
+##### 核心教学软件
+- `EasiNote5_Resource_20210923` - 希沃白板5资源包
+- `EasiNoteSetup_5.2.2.9635_seewo` - 希沃白板5
+- `SEEWO-FAMILY-BUCKET_EASINOTE.1.0.0.61` - 希沃全家桶
+
+##### 外设支持
+- `EasiCameraSetup_2.0.10.3829` - 希沃展台
+- `EasiRecorderSetup_1.0.2.596` - 希沃录屏
+- `SmartpenServiceSetup_1.0.1.349` - 智能笔服务
+
+##### 系统工具
+- `LifeCycleSetup_1.0.3.92` - 生命周期管理
+- `SeewoIwbAssistant_0.0.3.1070` - 交互白板助手
+- `SeewoLicenseSetup_2.0.2.187_factory` - 许可证管理
+- `SeewoServiceSetup_1.3.4.3204` - 希沃服务
+
+##### 投屏与协作
+- `UniteActiveSetup_1.5.3.210` - 统一激活
+- `大屏接收端SeewoPCAssistantPublicSetup_1.0.6.729` - PC助手公版
+- `ScreenShareSuiteSetup_seewo_a_[154]_2.4.54.984` - 屏幕共享套件
+
+##### 其他应用
+- `EasiAgentSetup_0.0.1.130`
+- `W.P.S.20.2904(11.1.0.12763)` - WPS Office
+- `WifiFixSetup_1.0.4.103`
+
+#### 备注
+
+</details>
+
 ## 🔍 如何使用这些信息
 
 1. **版本比对**: 对比当前系统版本与档案记录，确认是否需要更新
