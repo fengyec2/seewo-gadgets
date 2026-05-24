@@ -138,4 +138,4 @@
 
 ---
 
-*最后更新: $(date)*
+最后更新: ![Docs](https://img.shields.io/github/last-commit/fengyec2/seewo-gadgets?path=docs/image.md)
