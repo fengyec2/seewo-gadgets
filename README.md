@@ -103,13 +103,14 @@
 | :--- | :--- | :--- |
 | [**SeewoSplash**](https://github.com/fengyec2/custom-seewo-splash-screen) | ✅ | Fluent 风格的希沃白板启动图自定义工具 |
 | [**PlaylistControl**](https://github.com/fengyec2/PlaylistControl) | ✅ | 记录 SMTC 信息 |
+| [**AHK-ChangeIcon**](https://github.com/iKineticate/AHK-ChangeIcon) | ✅ | 快速替换桌面/开始菜单图标 |
 
 ### 文档与教程
 
 | 名称 | 格式 | 描述 |
 | :--- | :--- | :--- |
 | [**希沃镜像**](./docs/image.md) | Markdown | 整理了小部分希沃原厂镜像 |
-| [**Round Icon**](https://www.123865.com/s/RvxeVv-NjppH) | ICO | 统一圆角矩形的桌面图标包，已涵盖希沃应用 |
+| [**Round Icon**](https://www.123865.com/s/RvxeVv-NjppH) | ICO | 统一圆角矩形的桌面图标包，已涵盖希沃应用，可配合 [AHK-ChangeIcon](https://github.com/iKineticate/AHK-ChangeIcon) 一键更换图标 |
 | [**自习提醒 PPT**](https://1814925479.share.123865.com/123pan/RvxeVv-ENZaH) | PPTX | 自习提醒 PPT |
 
 
