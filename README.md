@@ -12,16 +12,19 @@
 
 ## 目录
 
-- [💻 自动化实践](#自动化实践)
-- [✨ 特性](#特性)
-- [🚀 快速开始](#快速开始)
-- [📦 资源列表](#资源列表)
+- [Seewo Gadgets 🛠️](#seewo-gadgets-️)
+  - [目录](#目录)
+  - [自动化实践](#自动化实践)
+  - [特性](#特性)
+  - [快速开始](#快速开始)
+  - [资源列表](#资源列表)
     - [脚本](#脚本)
+    - [自动化应用](#自动化应用)
+    - [其他应用](#其他应用)
     - [文档与教程](#文档与教程)
-    - [配置文件](#配置文件)
-- [🤝 如何贡献](#如何贡献)
-- [📄 许可证](#许可证)
-- [🙏 致谢](#致谢)
+  - [如何贡献](#如何贡献)
+  - [许可证](#许可证)
+  - [致谢](#致谢)
 
 ---
 
@@ -37,17 +40,17 @@
 - **🕗 12:40**：自动打开午自习提醒，结束时关闭
 - **🕗 13:30**：自动打开午休提醒，结束时关闭
 
-<img src="docs/images/summer_auto.PNG" alt="午自习提醒" width="200" />
+<img src="docs/images/ppt_auto/summer_auto.png" alt="午自习提醒" width="200" />
 
 - **🕗 14:07**：自动打开某某音乐并开始播放（SMTC 实现）
 - **🕗 14:27**：自动停止音乐播放（SMTC 实现）
 - **🔔 自习课**：自动打开自习提醒，下课关闭
 
-<img src="docs/images/all_auto.PNG" alt="自习提醒" width="200" />
+<img src="docs/images/ppt_auto/all_auto.png" alt="自习提醒" width="200" /><img src="docs/images/ppt_auto/all_auto_unfold.png" alt="自习提醒展开" width="200" />
 
 - **🔔 周测**：自动打开考试提醒并启动倒计时，考试结束关闭
 
-<img src="docs/images/week_exam_auto.PNG" alt="考试提醒" width="200" />
+<img src="docs/images/ppt_auto/week_exam_auto.png" alt="考试提醒" width="200" /><img src="docs/images/ppt_auto/switch.png" alt="考试提醒展开" width="200" />
 
 - **🔔 晚自习**：每节自习自动打开午晚自习提醒，结束时关闭
 - **🕗 22:30**：自动关机
@@ -107,6 +110,9 @@
 | :--- | :--- | :--- |
 | [**希沃镜像**](./docs/image.md) | Markdown | 整理了小部分希沃原厂镜像 |
 | [**Round Icon**](https://www.123865.com/s/RvxeVv-NjppH) | ICO | 统一圆角矩形的桌面图标包，已涵盖希沃应用 |
+| [**自习提醒 PPT**](https://1814925479.share.123865.com/123pan/RvxeVv-ENZaH) | PPTX | 自习提醒 PPT |
+
+
 
 <!-- ### 配置文件
 
