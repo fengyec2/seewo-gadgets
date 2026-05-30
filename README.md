@@ -1,10 +1,16 @@
 # Seewo Gadgets 🛠️
 
+<div align="center">
+
+![Seewo Gadgets](docs/images/banner/banner.png "原图见'文档与教程'")
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/fengyec2/seewo-gadgets/pulls)
 [![GitHub Stars](https://img.shields.io/github/stars/fengyec2/seewo-gadgets?style=social)](https://github.com/fengyec2/seewo-gadgets/stargazers)
 
 一个精心整理的、用于增强希沃一体机使用体验的实用小工具与资源合集。
+
+</div>
 
 > [!NOTE]
 > 
@@ -95,6 +101,7 @@
 | [**希沃镜像**](./docs/image.md) | Markdown | 整理了小部分希沃原厂镜像 |
 | [**Round Icon**](https://www.123865.com/s/RvxeVv-NjppH) | ICO | 统一圆角矩形的桌面图标包，已涵盖希沃应用，可配合 [AHK-ChangeIcon](https://github.com/iKineticate/AHK-ChangeIcon) 一键更换图标 |
 | [**自习提醒 PPT**](https://1814925479.share.123865.com/123pan/RvxeVv-ENZaH) | PPTX | 自习提醒 PPT |
+| [**希沃壁纸**](https://1814925479.share.123865.com/123pan/RvxeVv-vo3BH) | PNG | 二改的 Atlas OS 壁纸 |
 
 
 
